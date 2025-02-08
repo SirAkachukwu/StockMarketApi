@@ -21,7 +21,7 @@ To set up and run the project locally, follow these steps:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/StockMarketAPI.git
+git clone https://github.com/SirAkachukwu/StockMarketAPI.git
 ```
 
 ### 2. Install Dependencies:
